@@ -1,0 +1,3 @@
+## Safety, accuracy and commercial checks
+
+Do not invent prices, product specifications, reviews, medical results, financial returns, safety certifications or test data. Use approved trademarks and product imagery. Obtain appropriate consent for likeness and voice. Disclose synthetic content where required. Verify platform policies, music and stock asset licenses. Avoid misleading before-and-after transformations. Review local advertising rules, especially for health, finance, children, regulated products and political advertising. Add legal disclaimers in editing rather than trusting generated tiny text. No prompt guarantees exact geometry, typography, duration, audio or native tool support.
