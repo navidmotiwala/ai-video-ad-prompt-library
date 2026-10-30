@@ -2,52 +2,33 @@
 
 [← Back to library](../README.md)
 
-**Purpose:** Practical reference for ai video platform guides in AI video advertising.
+**Purpose:** Select a platform based on the type of input, desired motion, reference control and current account limits. Capabilities change, so verify the official documentation before production.
 
-## 1. Sora
+| Platform | Start here | What to evaluate |
+| --- | --- | --- |
+| **Sora** | [Official website](https://sora.com/) | Storytelling, shot generation, reference options, access and export rules |
+| **Google Veo / Flow** | [Official prompting guide](https://deepmind.google/models/veo/prompt-guide/) | Prompt controls, audio, shot consistency and available Flow features |
+| **Runway** | [Official help center](https://help.runwayml.com/) | Text-to-video, image-to-video, motion control and export options |
+| **Kling AI** | [Official website](https://klingai.com/) | Reference handling, motion behavior and generation limits |
+| **Luma** | [Official website](https://lumalabs.ai/) | Camera motion, image references and available generation modes |
+| **Pika** | [Official website](https://pika.art/) | Stylized effects, image animation and supported formats |
 
-**How to use:** Review current model, access, supported inputs, output and usage rights before selecting.
+## Platform selection workflow
 
-**Example:** https://sora.com/.
+1. **Choose your input:** Text brief, product photo, storyboard frame or existing footage.
+2. **Check controls:** Confirm the model supports the needed references, camera motion and output format.
+3. **Test one shot:** Use the same product brief and source asset where allowed.
+4. **Compare:** Review product consistency, motion, physics, audio and generation cost.
+5. **Document:** Record model/version, settings, date and output limitations.
+6. **Finalize:** Generate short approved clips and edit them into the ad.
 
-## 2. Google Veo and Flow
-
-**How to use:** Check official prompting guide and product controls for your account.
-
-**Example:** https://deepmind.google/models/veo/prompt-guide/.
-
-## 3. Runway
-
-**How to use:** Use the current official text-to-video and image-to-video documentation.
-
-**Example:** https://help.runwayml.com/.
-
-## 4. Kling AI
-
-**How to use:** Check available video generation modes and reference support.
-
-**Example:** https://klingai.com/.
-
-## 5. Luma
-
-**How to use:** Check current generation, motion and image-reference capabilities.
-
-**Example:** https://lumalabs.ai/.
-
-## 6. Pika
-
-**How to use:** Check current generation controls and export limits.
-
-**Example:** https://pika.art/.
-
-## Reusable prompt pattern
+## Test prompt
 
 ```text
-Create a product advertisement for [EXACT PRODUCT] using sora.
-Scene: [SETTING]. Action: [ONE PHYSICAL ACTION]. Camera: [ONE MOVEMENT].
-Lighting: [LIGHTING]. Duration: [SECONDS]. Aspect ratio: [RATIO].
-Preserve product geometry, packaging and approved brand identity.
-Use only verified product claims. Add text and logos in post-production.
+A reference-matched perfume bottle rests on black marble.
+The camera performs a slow 30-degree orbit. A soft rim light reveals
+the cap and glass edges. Keep the exact label, shape and materials.
+Eight seconds, vertical 9:16. No generated text or additional objects.
 ```
 
-**Production check:** Review the final video frame by frame for geometry, physics, continuity, claims and licensing.
+**Important:** This is a cross-platform test brief, not a guarantee that every tool accepts the same parameters or supports the same features.
