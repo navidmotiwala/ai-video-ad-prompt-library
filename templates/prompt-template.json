@@ -1,0 +1,26 @@
+{
+  "product": "[EXACT PRODUCT]",
+  "objective": "[AWARENESS OR CONVERSION]",
+  "setting": "[SCENE]",
+  "action": "[ONE ACTION]",
+  "camera": {
+    "framing": "[MACRO OR WIDE]",
+    "movement": "[ONE CAMERA MOVE]",
+    "lens": "[LENS LOOK]"
+  },
+  "lighting": "[KEY AND FILL]",
+  "materials": "[MATERIAL PHYSICS]",
+  "duration_seconds": 8,
+  "aspect_ratio": "9:16",
+  "audio": "[FOLEY OR VOICEOVER]",
+  "reference_assets": [
+    "[APPROVED PRODUCT PHOTO]"
+  ],
+  "must_preserve": [
+    "product geometry",
+    "label",
+    "brand colors"
+  ],
+  "verified_claims_only": true,
+  "text_overlay_in_post": true
+}
