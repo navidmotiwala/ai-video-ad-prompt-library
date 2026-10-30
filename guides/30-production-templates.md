@@ -1,47 +1,23 @@
-# AI video production templates
+# Production templates
 
 [← Back to library](../README.md)
 
-**Purpose:** Practical reference for ai video production templates in AI video advertising.
+Use these files to plan and review an AI video ad before publishing.
 
-## 1. Creative brief
+| Template | Purpose |
+| --- | --- |
+| [**Creative brief**](../templates/creative-brief.md) | Product, audience, objective, verified claims and output |
+| [**Shot list**](../templates/shot-list.md) | Timing, actions, camera, lighting and reference assets |
+| [**Storyboard**](../templates/storyboard.md) | Visual sequence with hook, demo, proof and CTA |
+| [**Prompt JSON**](../templates/prompt-template.json) | Structured prompt fields for repeatable workflows |
+| [**Quality checklist**](../templates/quality-checklist.md) | Product accuracy, audio, compliance and final export |
 
-**How to use:** Record product, target audience, objective, offer, key message, claims source and platform.
+## Recommended sequence
 
-**Example:** Use templates/creative-brief.md.
+1. **Brief:** Complete the creative brief with accurate product details.
+2. **Plan:** Fill in the storyboard and shot list.
+3. **Generate:** Use the JSON template or descriptive text prompts.
+4. **Review:** Check every shot against the source references.
+5. **Deliver:** Complete the quality checklist and record approval.
 
-## 2. Shot list
-
-**How to use:** Record shot ID, timing, action, camera, reference and approval status.
-
-**Example:** Use templates/shot-list.md.
-
-## 3. Storyboard
-
-**How to use:** Define hook, demo, proof and CTA with timing.
-
-**Example:** Use templates/storyboard.md.
-
-## 4. Prompt schema
-
-**How to use:** Store reusable fields for consistent generation.
-
-**Example:** Use templates/prompt-template.json.
-
-## 5. Review log
-
-**How to use:** Record prompt version, output, issue, reviewer and disposition.
-
-**Example:** Use templates/quality-checklist.md.
-
-## Reusable prompt pattern
-
-```text
-Create a product advertisement for [EXACT PRODUCT] using creative brief.
-Scene: [SETTING]. Action: [ONE PHYSICAL ACTION]. Camera: [ONE MOVEMENT].
-Lighting: [LIGHTING]. Duration: [SECONDS]. Aspect ratio: [RATIO].
-Preserve product geometry, packaging and approved brand identity.
-Use only verified product claims. Add text and logos in post-production.
-```
-
-**Production check:** Review the final video frame by frame for geometry, physics, continuity, claims and licensing.
+**Example:** For a 15-second perfume ad, plan a three-second hook, seven-second reveal, two-second material detail and three-second packshot. Generate each shot separately, then add verified brand graphics during editing.
