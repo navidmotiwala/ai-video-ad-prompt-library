@@ -1,0 +1,3 @@
+## 2026 creative directions to test
+
+Treat these as creative directions, not a verified ranking of October 2026 trends: tactile macro and ASMR; authentic creator-style demos; surreal scale shifts; miniature worlds; product portals; cinematic one-shot transitions; 3D exploded views; mixed live-action and CG; virtual production looks; analog film textures; handcrafted stop motion; paper craft; visual loops; localized variants; silent-first ads; immersive POV; split-screen comparisons; generative background plates; image-to-video from real packshots; first-and-last-frame transitions; realistic fluid simulations; transparent materials; procedural product assembly; documentary realism; creator-led educational ads; sound-led motion; interactive-style shoppable demonstrations.
