@@ -1,61 +1,71 @@
-## Combination shortcuts
+# Combination shortcuts
 
-### LUXURY
+Choose a style and expand the codes into descriptive language before generating.
+
+## LUXURY
 
 `/hero-shot + /macro-orbit + /low-key + /rim-light + /anamorphic + /packshot`
-### BEAUTY
+## BEAUTY
 
-`/macro-100 + /softbox + /texture-pass + /liquid-splash + /high-key`
-### TECH
+**Codes:** `/macro-100 + /softbox + /texture-pass + /liquid-splash + /high-key`
+
+
+## TECH
 
 `/exploded-view + /magnetic-assembly + /edge-light + /feature-highlight + /packshot`
-### FOOD
+## FOOD
 
 `/macro-100 + /slow-motion + steam + /foley + /hero-shot`
-### FASHION
+## FASHION
 
 `/tracking + /fabric-flow + /golden-hour + /portrait-85`
-### SPORT
+## SPORT
 
 `/low-angle + /tracking + /speed-ramp + /impact`
-### AUTOMOTIVE
+## AUTOMOTIVE
 
 `/drone-reveal + /tracking + /low-angle + /specular-control`
-### UGC
+## UGC
 
 `/handheld + /pov + /room-tone + /benefit-demo`
-### ECOM
+## ECOM
 
 `/unboxing + /feature-highlight + /size-comparison + /cta-endcard`
-### LOOP
+## LOOP
 
 `/locked-off + /seamless-loop + /floating-product`
 /SCI-FI = /neon + /volumetric + /particle-reveal + /orbit-180
-### MINIMAL
+## MINIMAL
 
-`/high-key + /locked-off + /softbox + /packshot`
-### ASMR
+**Codes:** `/high-key + /locked-off + /softbox + /packshot`
+
+
+## ASMR
 
 `/macro-100 + /foley + /texture-pass + /slow-motion`
-### EXPLAINER
+## EXPLAINER
 
 `/cutaway + /feature-highlight + /kinetic-type + /voiceover`
-### LAUNCH
+## LAUNCH
 
 `/silhouette + /product-reveal + /impact + /hero-shot + /cta-endcard`
-### LOCALIZATION
+## LOCALIZATION
 
 `/textless-master + /safe-zone + /voiceover + /cta-endcard`
 /B2B = /benefit-demo + /proof-shot + /feature-highlight + /cta-endcard
-### BEFOREAFTER
+## BEFOREAFTER
 
-`/locked-off + /before-after + /proof-shot`
-### RETAIL
+**Codes:** `/locked-off + /before-after + /proof-shot`
+
+
+## RETAIL
 
 `/packshot + /colorways + /benefit-demo + /cta-endcard`
-### TRAVEL
+## TRAVEL
 
 `/drone-reveal + /golden-hour + /tracking + /wide-24`
-### HOLIDAY
+## HOLIDAY
 
-`/product-reveal + /practical-light + /particle-reveal + /packshot`
+**Codes:** `/product-reveal + /practical-light + /particle-reveal + /packshot`
+
+---
