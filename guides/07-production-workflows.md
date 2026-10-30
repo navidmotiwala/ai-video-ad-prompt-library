@@ -1,72 +1,85 @@
 # Production workflows
 
-Use one workflow that matches your source material.
+[← Back to library](../README.md)
 
-## A. Text To Video
+Choose the workflow that matches your source material. Generate short shots and edit them together for longer ads.
 
-1. **Step 1:** Define objective and target audience.
-2. **Step 2:** Select one scene.
-3. **Step 3:** Write physical actions.
-4. **Step 4:** Choose framing, lens and lighting.
-5. **Step 5:** Specify duration and aspect ratio.
-6. **Step 6:** Generate variations.
-7. **Step 7:** Review geometry and motion.
-8. **Step 8:** Edit.
-9. **Step 9:** Add typography and licensed sound.
-10. **Step 10:** Export.
+## A. Text-to-video
 
-## B. Image To Video
+1. **Brief:** Define the product, audience and objective.
+2. **Scene:** Choose one setting and one main physical action.
+3. **Camera:** Specify framing, movement and lighting.
+4. **Output:** Set duration, aspect ratio and sound requirements.
+5. **Generate:** Create multiple short variants.
+6. **Review:** Check product geometry, physics and continuity.
+7. **Finish:** Add approved graphics, licensed audio and export.
 
-1. **Step 1:** Photograph or render exact product.
-2. **Step 2:** Clean source image.
-3. **Step 3:** Lock label and geometry.
-4. **Step 4:** Prompt primarily motion.
-5. **Step 5:** Animate one action per shot.
-6. **Step 6:** Check drift frame by frame.
-7. **Step 7:** Composite verified brand assets.
+## B. Image-to-video
 
-## C. Product To Video
+1. **Source:** Start with a high-quality photo of the exact product.
+2. **Reference:** Specify features that must not change, including logo, color and proportions.
+3. **Motion:** Describe one camera or object movement.
+4. **Generate:** Produce a short clip with limited action.
+5. **Review:** Inspect each frame for product drift.
+6. **Finish:** Composite verified branding and edit.
 
-1. **Step 1:** Shoot product from front, back, side and macro.
-2. **Step 2:** Create reference sheet.
-3. **Step 3:** Write shot list.
-4. **Step 4:** Generate each shot separately.
-5. **Step 5:** Edit matching angles.
-6. **Step 6:** Verify materials and logos.
-7. **Step 7:** Finalize packshot.
+## C. Product-to-video
 
-## D. Ugc
+1. **Capture:** Photograph the product from front, side, back and macro angles.
+2. **Reference sheet:** Record color, materials, buttons, label and geometry.
+3. **Storyboard:** Plan individual product shots.
+4. **Generate:** Create each shot separately.
+5. **Continuity:** Match lighting and product orientation.
+6. **Approve:** Check product accuracy and export a final packshot.
 
-1. **Step 1:** Write natural hook.
-2. **Step 2:** Film or generate disclosed creator footage.
-3. **Step 3:** Demonstrate real product use.
-4. **Step 4:** Record authentic narration.
-5. **Step 5:** Add captions.
-6. **Step 6:** Avoid fake testimonials.
+## D. UGC advertising
 
-## E. Multi Shot
+1. **Script:** Write a natural hook and one real benefit.
+2. **Consent:** Use an authorized creator and voice.
+3. **Demonstration:** Show genuine product use.
+4. **Audio:** Record clear, authentic narration.
+5. **Edit:** Add accurate captions and a clear CTA.
+6. **Review:** Do not fabricate reviews or experiences.
 
-1. **Step 1:** Write beat sheet.
-2. **Step 2:** Create consistent character/product references.
-3. **Step 3:** Generate opening and closing frames for each shot.
-4. **Step 4:** Produce individual clips.
-5. **Step 5:** Match lighting and screen direction.
-6. **Step 6:** Edit with audio continuity.
+## E. Multi-shot video
+
+1. **Beat sheet:** Define the opening, demonstration, proof and end card.
+2. **References:** Lock product and character identity.
+3. **Shot list:** Record duration, action and camera direction.
+4. **Generation:** Produce each clip independently.
+5. **Continuity:** Match light, orientation and scene direction.
+6. **Edit:** Join clips with consistent sound and pacing.
 
 ## F. Localization
 
-1. **Step 1:** Export textless master.
-2. **Step 2:** Replace voiceover, captions, pricing, offers and regulatory text with approved localized versions.
-3. **Step 3:** Verify cultural context.
-WORKFLOW G A/B TEST: hold audience and offer constant.
-4. **Step 4:** Vary only hook, framing or first-three-second action.
-5. **Step 5:** Compare thumb-stop, watch time, click-through and conversion using sufficient sample size.
+1. **Master:** Export footage without embedded text.
+2. **Translation:** Adapt voiceover, subtitles, offers and legal copy.
+3. **Market review:** Verify local language, culture and regulations.
+4. **Export:** Create platform-specific localized versions.
+
+## G. A/B testing
+
+1. **Hypothesis:** Define one creative variable to test.
+2. **Control:** Keep audience, offer, landing page and attribution consistent.
+3. **Variants:** Change only the hook, framing or CTA under test.
+4. **Measurement:** Compare watch rate, click-through, conversion and cost.
+5. **Decision:** Account for sample size and uncertainty before choosing a winner.
 
 ## H. Automation
 
-1. **Step 1:** Keep structured shot briefs in CSV or JSON.
-2. **Step 2:** Batch render where platform permits.
-3. **Step 3:** Log seed, model, prompt, source assets and license.
-4. **Step 4:** Review outputs manually.
-5. **Step 5:** Render through editor.
-WORKFLOW I QUALITY CONTROL: verify product geometry, hands, text, logos, shadows, reflections, physics, continuity, frame-safe regions, audio sync, disclosure and claims before publishing.
+1. **Input:** Keep approved SKU details and shot briefs in CSV or JSON.
+2. **Template:** Insert verified product attributes into a prompt.
+3. **Queue:** Batch generation only where platform terms and tools permit.
+4. **Tracking:** Log prompt version, reference asset and output status.
+5. **Review:** Require approval before publication.
+
+## I. Quality control
+
+1. **Product:** Check exact geometry, label, color and packaging.
+2. **Motion:** Check hands, physics, shadows and camera movement.
+3. **Claims:** Verify prices, comparisons and product benefits.
+4. **Rights:** Check music, likeness and asset licenses.
+5. **Delivery:** Verify audio, captions, resolution and safe zones.
+6. **Playback:** Watch the exported video in full.
+
+**Templates:** [Creative brief](../templates/creative-brief.md) · [Shot list](../templates/shot-list.md) · [Quality checklist](../templates/quality-checklist.md)
